@@ -2,7 +2,7 @@
 
 This can be used for testing your html/css files locally or can be used as a boiler plate for an express-based application.
 
-<img src='https://imgur.com/m79ZCS4'>
+<img src='https://i.imgur.com/m79ZCS4.png>
 
 # Requirements
 
